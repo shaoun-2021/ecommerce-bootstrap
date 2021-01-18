@@ -11,20 +11,23 @@
     padding-top: 10px;
 
 }
-.card img{
-    height: 300px;
-    width: 300px;
-    padding-left: 100px;
-    padding-top: 15px;
- 
-  
-}
 .top{
     background: #FFFBF0;
     ;
 }
+.card img{
+    height: 270px;
+    width: 300px;
+    background-color: rgb(241, 241, 241);
+    margin-left: 35px;
+    margin-top: 10px;
+    border-radius: 15px;
+    padding: 10px 45px 0px 35px;
+   
+}
+
 .card, .service{
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: white;
     border: 0px;
 
@@ -33,7 +36,7 @@
     border: 0px;
     background-color: white;
 }
-.s-color{
+.special-color{
     color: rgb(250, 190, 76);
 
     }
@@ -45,4 +48,7 @@
         height: 100px;
         width: 100px;
         margin-left: 5px;
+    }
+    h1, h2, h3, h4, h5{
+        color: rgb(54, 57, 88);
     }
